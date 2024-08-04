@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ![Cool](https://github.com/gauravmahto/gauravmahto/blob/master/cool.gif?raw=true)
+
+[![Gaurav Mahto profile views](https://u8views.com/api/v1/github/profiles/3089767/views/day-week-month-total-count.svg)](https://u8views.com/github/gauravmahto)
